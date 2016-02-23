@@ -1,0 +1,23 @@
+{
+  "name": "gerty-cell-translate",
+  "version": "1.0.0",
+  "description": "A transation 'Cell' for GERTY the DevBot",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "GERTY",
+    "Translate",
+    "DevBot"
+  ],
+  "author": "D. Rimron-Soutter <darran@xalior.com>",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate": "^1.0.6"
+  }
+}
