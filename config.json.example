@@ -1,0 +1,9 @@
+{
+    "cellConfig": {
+        "uk.co.waterside-development.gerty.cells.translate": {
+            "APIKEY": "AIzaSyDhvHrZ8iEE1am-sbmmYXmNLfN_EJAuRIM",
+            "default_source_lang": "nl",
+            "default_destination_lang": "en"
+        }
+    }
+}
